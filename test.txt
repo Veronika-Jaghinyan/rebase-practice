@@ -3,3 +3,6 @@ test file new
 test file new merge
 
 add new text
+test file new 
+
+new line
